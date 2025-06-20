@@ -11,4 +11,4 @@
 # Custom WebSocket sender
 ![image](https://github.com/user-attachments/assets/5657c842-50b0-4a95-8e2f-6f139acf2f57)
 # Custom Interceptor (W.I.P)
-![image](https://github.com/user-attachments/assets/1cf93caf-2310-400e-9f58-7e3f5a779169)
+![image](https://github.com/user-attachments/assets/53e2f4a7-8a00-449d-8d48-1ce06eddc904)
